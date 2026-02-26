@@ -1,0 +1,18 @@
+# Xcode generated - do not commit
+*.xcodeproj/
+*.xcworkspace/
+DerivedData/
+.build/
+build/
+xcuserdata/
+
+# SPM
+.swiftpm/
+*.resolved
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Codemagic
+codemagic.yaml.bak
